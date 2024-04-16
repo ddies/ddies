@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">  
-<img src="https://discord.c99.nl/widget/theme-4/1094511683554267197.png">
+<img src="[https://discord.c99.nl/widget/theme-4/1094511683554267197.png](https://lanyard.kyrie25.me/api/1098175594363109459?waveColor=fff&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000)">
 </p>
 
 <p align="center">
