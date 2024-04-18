@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">  
-<img src="https://lanyard.kyrie25.me/api/1098175594363109459?waveColor=fff&waveSpotifyColor=212121&gradient=000000&borderRadius=25px&bg=000">
+<img src="https://lanyard.kyrie25.me/api/1098175594363109459?waveColor=000000&waveSpotifyColor=212121&gradient=000000&borderRadius=25px&bg=000">
 </p>
 
 <p align="center">
