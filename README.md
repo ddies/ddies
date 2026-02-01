@@ -3,6 +3,10 @@
   <img src="https://top.gg/api/widget/1094942437820076083.svg">
 </a>
 
+
+<a href="https://top.gg/bot/1090979901483528242">
+  <img src="https://top.gg/api/widget/1090979901483528242.svg">
+</
 </div>
 
 <p align="center">  
